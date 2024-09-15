@@ -3,7 +3,7 @@ Exercícios realizados como requisito para conclusão do curso [Java primeiros p
 
 A partir da conclusão do curso tive a oportunidade de aprender:
 
-### Conteúdos do curso [^1].
+### Conteúdos do curso.
 
 - [Sessão 3: Estrutura Sequencial](https://github.com/rafa-soares/Java_primeiros_passos/tree/master/src/main/java/com/exercicios/sessao3)
 - [Sessão 4: Estrutura Condicional](https://github.com/rafa-soares/Java_primeiros_passos/tree/master/src/main/java/com/exercicios/sessao4)
