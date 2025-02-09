@@ -5,9 +5,9 @@ Ao longo do curso, consolidei meus conhecimentos em lógica de programação, al
 
 #### Conteúdos do curso:
 
-- [Sessão 3: Estrutura Sequencial](https://github.com/rafa-soares/Java_primeiros_passos/tree/master/src/main/java/com/exercicios/sessao3)
-- [Sessão 4: Estrutura Condicional](https://github.com/rafa-soares/Java_primeiros_passos/tree/master/src/main/java/com/exercicios/sessao4)
-- [Sessão 5: Estruturas Repetitivas](https://github.com/rafa-soares/Java_primeiros_passos/tree/master/src/main/java/com/exercicios/sessao5)
+- [Estrutura Sequencial](https://github.com/rafa-soares/Java_primeiros_passos/tree/master/src/main/java/com/exercicios/sessao3)
+- [Estrutura Condicional](https://github.com/rafa-soares/Java_primeiros_passos/tree/master/src/main/java/com/exercicios/sessao4)
+- [Estruturas Repetitivas](https://github.com/rafa-soares/Java_primeiros_passos/tree/master/src/main/java/com/exercicios/sessao5)
 
 
 
